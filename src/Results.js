@@ -4,7 +4,7 @@ import "./Results.css";
 import Phonetics from "./Phonetics";
 
 export default function Results(props) {
-  console.log(props.results);
+
   if (props.results === null) {
     return null;
   } else {
