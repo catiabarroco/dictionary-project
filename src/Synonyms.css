@@ -1,0 +1,9 @@
+.Synonyms ul {
+  margin: 0;
+}
+
+.Synonyms li {
+  list-style: none;
+  text-transform: capitalize;
+  opacity: 0.7;
+}
