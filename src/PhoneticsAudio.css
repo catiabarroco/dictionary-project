@@ -1,0 +1,15 @@
+.PhoneticsAudio button {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 20px;
+  transition: all 150ms ease-in-out;
+}
+
+.PhoneticsAudio button:hover{
+background-color: blueviolet;
+color: white;
+  }
+  
