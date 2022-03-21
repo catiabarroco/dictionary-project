@@ -5,7 +5,6 @@ import PhoneticsAudio from "./PhoneticsAudio";
 import PhoneticsText from "./PhoneticsText";
 
 export default function Results(props) {
-  console.log(props.results);
   if (props.results === null) {
     return null;
   } else {

@@ -1,0 +1,13 @@
+
+.Photos img {
+  border-radius: 4px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+.Photos h3 {
+  color: blueviolet;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  line-height: 2;
+}

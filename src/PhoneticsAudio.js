@@ -2,7 +2,6 @@ import React from "react";
 import "./PhoneticsAudio.css";
 
 export default function PhoneticsAudio(props) {
-  console.log(props.phonetics);
 
   function play() {
     var audio = new Audio(props.phonetics.audio);
